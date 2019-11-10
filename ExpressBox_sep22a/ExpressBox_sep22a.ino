@@ -1,15 +1,15 @@
 /*
- * Express Box build by Arduino Uno
+ * Express Box build by Arduino Uno(DFRobot I/O Expansion Shield V7.1 used).
  * 
  * The circuit:
  * - I2C LCD1602 VCC attached to +5V
  * - I2C LCD1602 GND attached to GND
  * - I2C LCD1602 SCL attached to SCL or A5
  * - I2C LCD1602 SDA attached to SDA or A4
- * - 4*4 keypad rows attached to D8,D9,D10,D11
- * - 4*4 keypad cols attached to D4,D5,D6,D7
- * - servo attached to D3,+5V,GND
- * - infrared sensor attached to D12,+5V,GND
+ * - 4×4 Keypad rows attached to D8,D9,D10,D11
+ * - 4×4 Keypad cols attached to D4,D5,D6,D7
+ * - Servo attached to D3,+5V,GND
+ * - Digital Infrared Sensor attached to D12,+5V,GND
  * 
  * created 2018
  * modified 8 Nov 2019
